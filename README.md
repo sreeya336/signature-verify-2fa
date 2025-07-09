@@ -57,4 +57,9 @@ Traditional signature verification is subjective and error-prone. This project:
 | Language         | Python                   |
 
 ---
+### Clone the Repository
+
+```bash
+git clone https://github.com/sreeya336/signature-verify-2fa.git
+cd signature-verify-2fa
 
